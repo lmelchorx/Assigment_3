@@ -1,0 +1,129 @@
+{
+  "aggregate": {
+    "timestamp": "2021-03-24T00:16:41.591Z",
+    "scenariosCreated": 6,
+    "scenariosCompleted": 6,
+    "requestsCompleted": 42,
+    "latency": {
+      "min": 73.8,
+      "max": 1558.2,
+      "median": 444.8,
+      "p95": 1438.4,
+      "p99": 1558.2
+    },
+    "rps": {
+      "count": 42,
+      "mean": 6.01
+    },
+    "scenarioDuration": {
+      "min": 2707.7,
+      "max": 4814.8,
+      "median": 4031.7,
+      "p95": 4814.8,
+      "p99": 4814.8
+    },
+    "scenarioCounts": {
+      "0": 6
+    },
+    "errors": {},
+    "codes": {
+      "200": 18,
+      "204": 24
+    },
+    "matches": 0,
+    "customStats": {},
+    "counters": {},
+    "scenariosAvoided": 0,
+    "phases": [
+      {
+        "duration": 3,
+        "arrivalRate": 2,
+        "name": "Phase 1"
+      }
+    ]
+  },
+  "intermediate": [
+    {
+      "timestamp": "2021-03-24T00:16:41.589Z",
+      "scenariosCreated": 6,
+      "scenariosCompleted": 6,
+      "requestsCompleted": 42,
+      "latency": {
+        "min": 73.8,
+        "max": 1558.2,
+        "median": 444.8,
+        "p95": 1438.4,
+        "p99": 1558.2
+      },
+      "rps": {
+        "count": 42,
+        "mean": 6.02
+      },
+      "scenarioDuration": {
+        "min": 2707.7,
+        "max": 4814.8,
+        "median": 4031.7,
+        "p95": 4814.8,
+        "p99": 4814.8
+      },
+      "scenarioCounts": {
+        "0": 6
+      },
+      "errors": {},
+      "codes": {
+        "200": 18,
+        "204": 24
+      },
+      "matches": 0,
+      "latencies": [
+        312980689,
+        320927871,
+        263702224,
+        215283364,
+        139778000,
+        415383167,
+        478775491,
+        272933463,
+        399361787,
+        214562226,
+        298259469,
+        425002211,
+        439400424,
+        223345454,
+        423255215,
+        539427438,
+        598315446,
+        109432334,
+        464683180,
+        591331782,
+        186657009,
+        879288424,
+        1558234425,
+        73774473,
+        487866141,
+        1256180703,
+        1430154596,
+        184722127,
+        657696081,
+        193160341,
+        1288026907,
+        486247548,
+        848165622,
+        632996600,
+        653592753,
+        450234468,
+        1450886518,
+        548414160,
+        1124709043,
+        1402332693,
+        377181653,
+        400656721
+      ],
+      "customStats": {},
+      "counters": {},
+      "concurrency": 0,
+      "pendingRequests": 0,
+      "scenariosAvoided": 0
+    }
+  ]
+}
